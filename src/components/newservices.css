@@ -1,0 +1,30 @@
+.new{
+    margin-top: 50px;
+}
+.map3{
+    padding-top: 100px;
+    padding-left: 150px;
+    display: block;
+    margin-top: 11px;
+    color: #262626;
+    font-size: 1.125rem;
+    font-weight: 400;
+    line-height: 1.8;
+    margin-left: 70px;
+}
+.images{
+    text-decoration: none;
+    color: #262626;;
+}
+.more{
+    padding-left: 50px;
+    text-decoration: none;
+}
+.button4{
+    margin-top: 100px;
+    border-radius: 50px;
+    border-color: #08c1ef;
+    padding-left: 30px;
+    padding-right: 30px;
+    color:#08c1ef;
+}

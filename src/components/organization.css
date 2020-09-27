@@ -1,0 +1,19 @@
+.map1{
+    background: -webkit-linear-gradient(-45deg, #08c1ef 0%, #6dcf73 100%);
+    color: #fff;
+    padding-top: 30px;
+
+}
+.BTN3{
+    background-color: #b7db2a;
+color: #fff;
+margin-top: 70px;
+margin-left: 55px;
+border-radius: 20px;
+font-size: 18px;
+margin-bottom: 50px;
+padding-left:30px ;
+padding-right: 30px;
+padding-top: 10px;
+padding-bottom: 10px;
+}

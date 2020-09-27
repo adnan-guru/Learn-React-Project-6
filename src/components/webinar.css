@@ -1,0 +1,24 @@
+.sep{
+    background: -webkit-linear-gradient(-45deg, #08c1ef 0%, #6dcf73 100%);
+}
+.sep1{
+    color: #fff;
+    border: 1px solid;
+    margin-top: 35px;
+    margin-left: 30px;
+    padding-bottom: 30px;
+    padding-left: 80px;
+    font-size: 60px;
+}
+.next{
+    color: #fff;
+    text-decoration: none;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin-bottom: 30px;
+    font-size: 40px;
+}
+.next a{
+    text-decoration: #fff;
+    
+}

@@ -1,0 +1,16 @@
+.mapimg{
+      padding-top: 60px;
+  }
+  .map{
+      padding-top: 20px;
+  }
+  .map button{
+      border-radius: 30px;
+      font-size: 15px;
+      margin-bottom: 80px;
+      
+  }
+  .responsive{
+      max-width: 100%;
+      height: auto;
+  }

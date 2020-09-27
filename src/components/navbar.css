@@ -1,0 +1,38 @@
+
+.nav{
+    padding-top: 30px;
+}
+.top1{
+    color: #17a2b8;
+}
+.top2{
+    color:#3b506e
+}
+ .top-link{
+     padding-top: 40px;
+     padding-left: 40px;
+     text-decoration: none;
+     color: black;
+     border: none;
+     
+ }
+ .en{
+     font-size: 10px;
+     padding-left: 10px;
+ }
+ .top-button1{
+     margin-left: 55px;
+     border-radius: 20px;
+     font-size: 15px;
+ }
+ .top-button2{
+    margin-left: 20px;
+    border-radius: 20px;
+    font-size: 15px;
+ }
+ .globe{
+     padding-left: 20px;
+     padding-top: 3px;
+    
+     font-size: 27px !important;
+ }

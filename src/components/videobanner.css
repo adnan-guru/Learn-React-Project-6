@@ -1,0 +1,40 @@
+.baner1{
+    background: -webkit-linear-gradient(-45deg, #08c1ef 0%, #6dcf73 100%);
+     color: #fff;
+     margin-top: 10px;
+    margin-bottom: -50px;
+ }
+ .baner{
+    margin-top: 100px;
+    margin-left: 50px;
+    font-weight: 400;
+    line-height: 1.3;
+    font-size: 3rem;
+    line-height: 1.3;
+    
+}
+.baner2{
+    padding-top: 20px;
+    font-size: 30px;
+    margin-left: 55px;
+}
+.BTN3{
+    background-color: #b7db2a;
+    color: #fff;
+    margin-top: 70px;
+    margin-left: 60px;
+    border-radius: 20px;
+    font-size: 18px;
+    margin-bottom: 50px;
+    }
+    .add{
+
+        padding-bottom: 40px;
+        
+        
+    }
+    .vide{
+        margin-top: 40px;
+        width: 100%;
+        height: 350px;
+    }

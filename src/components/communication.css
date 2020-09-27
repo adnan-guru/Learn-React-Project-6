@@ -1,0 +1,37 @@
+.con-cen{
+    margin-top: 90px;
+    margin-bottom: 0;
+    font-size: 2.500rem;
+    line-height: 2;
+    letter-spacing: -1px;
+}
+.con-cen1{
+    margin-top: 10px;
+    font-size: 1.3rem;
+    line-height: 1.8;
+}
+.learn-more{
+    color: #3bc8f5;
+   text-decoration: none;
+}
+.image1{
+    max-width: 80%;
+    height: auto;
+    padding-top: 20px;
+}
+.responsive {
+     
+     max-width: 100%;
+     height: auto; 
+}
+.BTN3{
+    background-color: #b7db2a;
+color: #fff;
+margin-top: 70px;
+margin-left: 92px;
+border-radius: 20px;
+font-size: 18px;
+margin-bottom: 50px;
+padding-left:30px ;
+padding-right: 30px;
+}

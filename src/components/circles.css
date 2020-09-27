@@ -1,0 +1,28 @@
+.bxst-block-title.bxst-title-lg {
+    font-size: 3rem;
+    line-height: 1.2;
+    text-align: center;
+    padding-top: 100px;
+    padding-bottom: 80px;
+}
+.circle{
+
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    background-color: #08c1ef;
+    color: #fff;
+    margin-left: 15px;
+
+    
+    
+}
+
+.dots{
+    font-size: 25px;
+    color:#08c1ef ;
+    padding-left: 1px;
+    margin-right: 20px;
+    padding-top: 20px;
+    
+}
